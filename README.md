@@ -8,6 +8,6 @@ I'm currently finishing a master's degree in computational systems modeling :mor
 
 Want to see me talking nonsense in Portuguese? Follow me on twitter <a href="https://www.twitter.com/rafaelmansilha"><img src="https://user-images.githubusercontent.com/12387389/157924939-8371d7fb-03aa-4136-9fc2-c1741babe5f1.png" alt="drawing" width="25"/> @RafaelMansilha</a>
 
-Or if you want to <s>flirt</s> see my life, look for me on instagram <a href="https://www.instagram.com/rafaelmansilha"><img src="https://user-images.githubusercontent.com/12387389/157930791-551ca904-955d-4da2-88b9-4e94fc99bbf8.png" alt="drawing" width="25"/> @RafaelMansilha</a>
+Or if you want to see my life, look for me on instagram <a href="https://www.instagram.com/rafaelmansilha"><img src="https://user-images.githubusercontent.com/12387389/157930791-551ca904-955d-4da2-88b9-4e94fc99bbf8.png" alt="drawing" width="25"/> @RafaelMansilha</a>
 
 ###### Github profile version: 0.1
